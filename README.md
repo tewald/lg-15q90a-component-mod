@@ -10,6 +10,10 @@ Eu fiz no meu aparelho e funcionou. Não dou garantia que funcionará no seu apa
 
 Não sei se funcionará em todas as versões ou variantes desta placa.
 
+A fonte original desta aventura é o link a seguir https://forum.outerspace.com.br/index.php?threads/converter-tv-em-rgb-quem-tem-coragem.545152/post-17628180
+
+Eu apenas repliquei e documentei do meu jeito, além de adicionar o esquema eletrônico.
+
 ## Verificando se o modelo suporta este mod.
 
 Abra sua TV tirando os 5 parafusos que prendem a tampa e observe a placa perto da conexão de vídeo.
