@@ -38,6 +38,8 @@ Depois de instalado fica assim:
 
 O capacitor em C246 e o resistor em R248 devem ser removidos para desabilitar a saída de vídeo.
 
+Os capacitores em C285 e C286 devem ser removidos para evitar ruído da saída de áudio interferindo na imagem, pois as conexões serão utilizadas para entrada de vídeo.
+
 Depois deve-se fazer a ligação para os conectores de saída, transformando-os em entrada.
 
 ![](images/conectores.jpg)
